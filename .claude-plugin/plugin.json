@@ -1,0 +1,11 @@
+{
+  "name": "instagram-agent-es",
+  "description": "Trece skills de Claude para llevar una cuenta de Instagram, en español de Chile: reels con 26 fórmulas de gancho puntuadas y hoja de escenas con tiempos, investigación de lo que funciona en el rubro ordenada por múltiplo, revisión del texto contra el corte del feed, carruseles, historias, puntaje del perfil, plan semanal, comentarios, respuestas, DMs, reutilización, auditoría y un humanizador que quita la huella de IA. Una carpeta por cuenta.",
+  "version": "1.0.0-es",
+  "author": {
+    "name": "Adaptación al español de Chile sobre el trabajo de Jake Schincariol",
+    "url": "https://github.com/Jakeschincariol/instagram-agent-skill"
+  },
+  "license": "MIT",
+  "keywords": ["instagram", "reels", "contenido", "español", "chile", "humanizador"]
+}

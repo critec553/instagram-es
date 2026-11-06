@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "instagram-agent-es",
+  "description": "Paquete de skills de Instagram en español de Chile",
+  "owner": {"name": "recomendai_cl"},
+  "plugins": [
+    {
+      "name": "instagram-agent-es",
+      "description": "Trece skills para llevar una cuenta de Instagram en español de Chile.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

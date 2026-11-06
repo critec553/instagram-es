@@ -1,0 +1,79 @@
+{
+  "version": "1.0-es",
+  "total": 100,
+  "note": "Doce ítems, adaptados al español de Chile desde instagram-agent-skill (MIT, Jake Schincariol), para cuentas personales y también institucionales. Puntúa cada uno con honestidad: un puntaje generoso no le sirve a nadie. La mayoría de los perfiles queda entre 30 y 45 la primera vez. El peso es a propósito: el campo de nombre, la primera línea de la bio y los tres fijados valen más que la foto, porque es lo que procesa alguien que llegó desde un reel antes de decidir si sigue la cuenta.",
+  "items": [
+    {
+      "id": "name_field",
+      "points": 12,
+      "full_marks": "El campo de nombre (30 caracteres, la línea en negrita, no el usuario) lleva el nombre más lo que hace en palabras que la gente busca: «Marta Soto | Clases de inglés online» o «Dana Ruiz | Plantillas de contrato». Instagram indexa este campo en la búsqueda y la mayoría lo gasta en el nombre solo.",
+      "common_fail": "Solo el nombre, o el nombre con un emoji."
+    },
+    {
+      "id": "bio_first_line",
+      "points": 12,
+      "full_marks": "La primera línea dice para quién es y qué cambia para esa persona, en sus palabras. No un cargo, no una lista de adjetivos, no tres emojis separados por barras. En una institución: a quién le sirve y qué obtiene, no el eslogan.",
+      "common_fail": "«Emprendedora | Amante del café | Mamá de perritos» o «Excelencia, innovación y compromiso»."
+    },
+    {
+      "id": "bio_body",
+      "points": 8,
+      "full_marks": "El resto de los 150 caracteres lleva una prueba o una oferta concreta, escrito como oraciones y no como lista con barras.",
+      "common_fail": "Sopa de palabras clave, o espacio vacío."
+    },
+    {
+      "id": "pinned_three",
+      "points": 10,
+      "full_marks": "Tres publicaciones fijadas arriba de la grilla, con tres trabajos distintos: la mejor prueba, la explicación más clara de la oferta y la mejor presentación de quién está detrás. No las tres con más vistas por casualidad.",
+      "common_fail": "Nada fijado, así que arriba de la grilla aparece lo último que se publicó."
+    },
+    {
+      "id": "link",
+      "points": 8,
+      "full_marks": "Un destino que calza con lo que la bio acaba de prometer. Se permiten hasta cinco links; más de dos ya es un menú, y un menú convierte peor que una puerta.",
+      "common_fail": "Un linktree con once opciones, o ningún link."
+    },
+    {
+      "id": "highlights",
+      "points": 8,
+      "full_marks": "Entre cuatro y seis historias destacadas, con nombres de las preguntas que de verdad hace quien compra o postula: Precios, Resultados, Cómo funciona, Quiénes somos, Requisitos. Portadas parejas. Nada de hace más de un año adelante.",
+      "common_fail": "«Random», «Vida», «Favs», o 14 destacadas sin orden."
+    },
+    {
+      "id": "grid_legibility",
+      "points": 8,
+      "full_marks": "Las primeras nueve portadas se leen en miniatura y dicen de qué se trata la cuenta sin tocar nada. Las portadas de los reels se eligen a propósito, no quedan en el primer cuadro.",
+      "common_fail": "Nueve portadas de una cara a mitad de palabra y sin texto."
+    },
+    {
+      "id": "photo",
+      "points": 6,
+      "full_marks": "En una persona: la cara ocupa cerca del 60% de un círculo que se ve de unos 40 píxeles, ojos visibles, foto de los últimos dos años. En una institución: el logo o el isotipo legible a ese tamaño, sin texto chico adentro.",
+      "common_fail": "Foto de cuerpo entero, un logo en una marca personal, o un logo con eslogan ilegible en miniatura."
+    },
+    {
+      "id": "handle",
+      "points": 6,
+      "full_marks": "Se lee, se puede decir en voz alta, y es el mismo usuario en las otras plataformas. Sin guiones bajos apilados ni números en vez de letras.",
+      "common_fail": "Un usuario que nadie puede escribir después de escucharlo una vez."
+    },
+    {
+      "id": "category_contact",
+      "points": 6,
+      "full_marks": "Cuenta profesional con una categoría que calza con la oferta, y botones de contacto que funcionan: un correo o un WhatsApp que alguien responde, no el de 2019.",
+      "common_fail": "Cuenta personal, así que no hay estadísticas ni botón de contacto."
+    },
+    {
+      "id": "recent_activity",
+      "points": 10,
+      "full_marks": "Publicó en los últimos siete días y respondió los comentarios del post más reciente. Una cuenta que publicó por última vez en marzo se lee como cerrada.",
+      "common_fail": "Cinco semanas sin publicar, o un muro de comentarios sin respuesta."
+    },
+    {
+      "id": "story_presence",
+      "points": 6,
+      "full_marks": "Hay una historia arriba ahora, o al menos la mayoría de los días. Es la diferencia entre un perfil y alguien detrás.",
+      "common_fail": "Nunca aparece el anillo."
+    }
+  ]
+}
